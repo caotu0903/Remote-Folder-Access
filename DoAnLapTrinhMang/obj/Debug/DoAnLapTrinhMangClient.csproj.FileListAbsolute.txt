@@ -1,0 +1,48 @@
+D:\Study\Do-an-Lap-Trinh-Mang-GiaBao\DoAnLapTrinhMang\DoAnLapTrinhMang\bin\Debug\DoAnLapTrinhMang.exe.config
+D:\Study\Do-an-Lap-Trinh-Mang-GiaBao\DoAnLapTrinhMang\DoAnLapTrinhMang\bin\Debug\DoAnLapTrinhMang.exe
+D:\Study\Do-an-Lap-Trinh-Mang-GiaBao\DoAnLapTrinhMang\DoAnLapTrinhMang\bin\Debug\DoAnLapTrinhMang.pdb
+D:\Study\Do-an-Lap-Trinh-Mang-GiaBao\DoAnLapTrinhMang\DoAnLapTrinhMang\obj\Debug\DoAnLapTrinhMang.DoAnClient.resources
+D:\Study\Do-an-Lap-Trinh-Mang-GiaBao\DoAnLapTrinhMang\DoAnLapTrinhMang\obj\Debug\DoAnLapTrinhMang.DoAnClientLogin.resources
+D:\Study\Do-an-Lap-Trinh-Mang-GiaBao\DoAnLapTrinhMang\DoAnLapTrinhMang\obj\Debug\DoAnLapTrinhMang.DoAnClientSignUp.resources
+D:\Study\Do-an-Lap-Trinh-Mang-GiaBao\DoAnLapTrinhMang\DoAnLapTrinhMang\obj\Debug\DoAnLapTrinhMang.Properties.Resources.resources
+D:\Study\Do-an-Lap-Trinh-Mang-GiaBao\DoAnLapTrinhMang\DoAnLapTrinhMang\obj\Debug\DoAnLapTrinhMangClient.csproj.GenerateResource.cache
+D:\Study\Do-an-Lap-Trinh-Mang-GiaBao\DoAnLapTrinhMang\DoAnLapTrinhMang\obj\Debug\DoAnLapTrinhMangClient.csproj.CoreCompileInputs.cache
+D:\Study\Do-an-Lap-Trinh-Mang-GiaBao\DoAnLapTrinhMang\DoAnLapTrinhMang\obj\Debug\DoAnLapTrinhMang.exe
+D:\Study\Do-an-Lap-Trinh-Mang-GiaBao\DoAnLapTrinhMang\DoAnLapTrinhMang\obj\Debug\DoAnLapTrinhMang.pdb
+D:\Study\Do-an-Lap-Trinh-Mang-GiaBao\DoAnLapTrinhMang\DoAnLapTrinhMang\obj\Debug\DoAnLapTrinhMangClient.csprojAssemblyReference.cache
+D:\Study\Do-an-Lap-Trinh-Mang-GiaBao\DoAnLapTrinhMang\DoAnLapTrinhMang\obj\Debug\DoAnLapTrinhMang.DoAnClientChangeName.resources
+D:\Study\Do-an-Lap-Trinh-Mang-GiaBao\DoAnLapTrinhMang\DoAnLapTrinhMang\obj\Debug\DoAnLapTrinhMang.DoAnClientChangePassword.resources
+D:\Study\Do-an-Lap-Trinh-Mang-GiaBao\DoAnLapTrinhMang\DoAnLapTrinhMang\obj\Debug\DoAnLapTrinhMang.DoAnClientAdminManageAccount.resources
+D:\Study\Do-an-Lap-Trinh-Mang-GiaBao\DoAnLapTrinhMang\DoAnLapTrinhMang\obj\Debug\DoAnLapTrinhMang.DoAnClientAdminCreateAccount.resources
+D:\Study\Do-an-Lap-Trinh-Mang\DoAnLapTrinhMang\DoAnLapTrinhMang\bin\Debug\DoAnLapTrinhMang.exe.config
+D:\Study\Do-an-Lap-Trinh-Mang\DoAnLapTrinhMang\DoAnLapTrinhMang\bin\Debug\DoAnLapTrinhMang.exe
+D:\Study\Do-an-Lap-Trinh-Mang\DoAnLapTrinhMang\DoAnLapTrinhMang\bin\Debug\DoAnLapTrinhMang.pdb
+D:\Study\Do-an-Lap-Trinh-Mang\DoAnLapTrinhMang\DoAnLapTrinhMang\obj\Debug\DoAnLapTrinhMangClient.csprojAssemblyReference.cache
+D:\Study\Do-an-Lap-Trinh-Mang\DoAnLapTrinhMang\DoAnLapTrinhMang\obj\Debug\DoAnLapTrinhMang.DoAnClient.resources
+D:\Study\Do-an-Lap-Trinh-Mang\DoAnLapTrinhMang\DoAnLapTrinhMang\obj\Debug\DoAnLapTrinhMang.DoAnClientAdminCreateAccount.resources
+D:\Study\Do-an-Lap-Trinh-Mang\DoAnLapTrinhMang\DoAnLapTrinhMang\obj\Debug\DoAnLapTrinhMang.DoAnClientAdminManageAccount.resources
+D:\Study\Do-an-Lap-Trinh-Mang\DoAnLapTrinhMang\DoAnLapTrinhMang\obj\Debug\DoAnLapTrinhMang.DoAnClientChangeName.resources
+D:\Study\Do-an-Lap-Trinh-Mang\DoAnLapTrinhMang\DoAnLapTrinhMang\obj\Debug\DoAnLapTrinhMang.DoAnClientChangePassword.resources
+D:\Study\Do-an-Lap-Trinh-Mang\DoAnLapTrinhMang\DoAnLapTrinhMang\obj\Debug\DoAnLapTrinhMang.DoAnClientLogin.resources
+D:\Study\Do-an-Lap-Trinh-Mang\DoAnLapTrinhMang\DoAnLapTrinhMang\obj\Debug\DoAnLapTrinhMang.DoAnClientSignUp.resources
+D:\Study\Do-an-Lap-Trinh-Mang\DoAnLapTrinhMang\DoAnLapTrinhMang\obj\Debug\DoAnLapTrinhMang.Properties.Resources.resources
+D:\Study\Do-an-Lap-Trinh-Mang\DoAnLapTrinhMang\DoAnLapTrinhMang\obj\Debug\DoAnLapTrinhMangClient.csproj.GenerateResource.cache
+D:\Study\Do-an-Lap-Trinh-Mang\DoAnLapTrinhMang\DoAnLapTrinhMang\obj\Debug\DoAnLapTrinhMangClient.csproj.CoreCompileInputs.cache
+D:\Study\Do-an-Lap-Trinh-Mang\DoAnLapTrinhMang\DoAnLapTrinhMang\obj\Debug\DoAnLapTrinhMang.exe
+D:\Study\Do-an-Lap-Trinh-Mang\DoAnLapTrinhMang\DoAnLapTrinhMang\obj\Debug\DoAnLapTrinhMang.pdb
+D:\Study\Do-an-Mang-Final\Nhom4-Source code\DoAnLapTrinhMang\bin\Debug\DoAnLapTrinhMang.exe.config
+D:\Study\Do-an-Mang-Final\Nhom4-Source code\DoAnLapTrinhMang\bin\Debug\DoAnLapTrinhMang.exe
+D:\Study\Do-an-Mang-Final\Nhom4-Source code\DoAnLapTrinhMang\bin\Debug\DoAnLapTrinhMang.pdb
+D:\Study\Do-an-Mang-Final\Nhom4-Source code\DoAnLapTrinhMang\obj\Debug\DoAnLapTrinhMangClient.csprojAssemblyReference.cache
+D:\Study\Do-an-Mang-Final\Nhom4-Source code\DoAnLapTrinhMang\obj\Debug\DoAnLapTrinhMang.DoAnClient.resources
+D:\Study\Do-an-Mang-Final\Nhom4-Source code\DoAnLapTrinhMang\obj\Debug\DoAnLapTrinhMang.DoAnClientAdminCreateAccount.resources
+D:\Study\Do-an-Mang-Final\Nhom4-Source code\DoAnLapTrinhMang\obj\Debug\DoAnLapTrinhMang.DoAnClientAdminManageAccount.resources
+D:\Study\Do-an-Mang-Final\Nhom4-Source code\DoAnLapTrinhMang\obj\Debug\DoAnLapTrinhMang.DoAnClientChangeName.resources
+D:\Study\Do-an-Mang-Final\Nhom4-Source code\DoAnLapTrinhMang\obj\Debug\DoAnLapTrinhMang.DoAnClientChangePassword.resources
+D:\Study\Do-an-Mang-Final\Nhom4-Source code\DoAnLapTrinhMang\obj\Debug\DoAnLapTrinhMang.DoAnClientLogin.resources
+D:\Study\Do-an-Mang-Final\Nhom4-Source code\DoAnLapTrinhMang\obj\Debug\DoAnLapTrinhMang.DoAnClientSignUp.resources
+D:\Study\Do-an-Mang-Final\Nhom4-Source code\DoAnLapTrinhMang\obj\Debug\DoAnLapTrinhMang.Properties.Resources.resources
+D:\Study\Do-an-Mang-Final\Nhom4-Source code\DoAnLapTrinhMang\obj\Debug\DoAnLapTrinhMangClient.csproj.GenerateResource.cache
+D:\Study\Do-an-Mang-Final\Nhom4-Source code\DoAnLapTrinhMang\obj\Debug\DoAnLapTrinhMangClient.csproj.CoreCompileInputs.cache
+D:\Study\Do-an-Mang-Final\Nhom4-Source code\DoAnLapTrinhMang\obj\Debug\DoAnLapTrinhMang.exe
+D:\Study\Do-an-Mang-Final\Nhom4-Source code\DoAnLapTrinhMang\obj\Debug\DoAnLapTrinhMang.pdb
